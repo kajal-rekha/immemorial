@@ -15,7 +15,7 @@ Imemorial is a single page web application that takes you back to the 90s era. I
 - GSAP (GreenSock Animation Platform)
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/<username>/imemorial.git`
+1. Clone the repository: `git clone https://github.com/kajal-rekha/immemorial-website.git`
 2. Install the dependencies: `npm install` or `yarn install`
 3. Start the development server: `npm start` or `yarn start`
 
