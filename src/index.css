@@ -106,8 +106,8 @@ section {
   font-family: "Bai Jamjuree", sans-serif;
   text-transform: uppercase;
   text-align: center;
-  font-size: 8vw;
-  line-height: 1.2;
+  font-size: 9vw;
+  line-height: 1.1;
   min-height: 100vh;
   color: var(--color-darker);
   display: flex;
